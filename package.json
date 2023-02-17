@@ -1,0 +1,32 @@
+{
+  "name": "yanezjose_wad8516_secondexam",
+  "version": "1.0.0",
+  "description": "Second Exam WAD 8516 Jose Yanez REST API",
+  "main": "indexYanez.js",
+  "scripts": {
+    "start": "node indexYanez.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseignacioyanez/YanezJose_WAD8516_SecondExam.git"
+  },
+  "keywords": [
+    "RESt",
+    "WAD",
+    "ESPE"
+  ],
+  "author": "Jose Ignacio Yanez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseignacioyanez/YanezJose_WAD8516_SecondExam/issues"
+  },
+  "homepage": "https://github.com/joseignacioyanez/YanezJose_WAD8516_SecondExam#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^6.9.2"
+  }
+}
